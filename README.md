@@ -7,7 +7,7 @@ We provided herein
 
 - a <a href="http://www.aisquareconnect.com/deeprl/models.html">dynamic html page</a> for Deep RL for portfolio allocation 
 - a <a href="https://github.com/aisquareconnect/deeprlportfolio/blob/master/paper.pdf">companion paper</a> for Deep RL for portfolio allocation 
-
+- an <a href="http://www.aisquareconnect.com/deeprl/ECML-PKDD_demo.mp4">explanatory film</a>
 
 ## Get Feedback
 - Feedback on the method is welcome. Please email me at the email provided in the paper
