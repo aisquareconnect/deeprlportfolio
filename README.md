@@ -5,8 +5,9 @@
 ## Content
 We provided herein 
 
-- a dynamic html page for Deep RL for portfolio allocation 
-- a companion paper for Deep RL for portfolio allocation 
+- a <a href="http://www.aisquareconnect.com/deeprl/models.html">dynamic html page</a> for Deep RL for portfolio allocation 
+- a <a href="https://github.com/aisquareconnect/deeprlportfolio/blob/master/paper.pdf">companion paper</a> for Deep RL for portfolio allocation 
+
 
 ## Get Feedback
 - Feedback on the method is welcome. Please email me at the email provided in the paper
